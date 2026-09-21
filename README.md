@@ -27,3 +27,11 @@ Install the required library:
 
 ```bash
 pip install colorama
+
+python
+python3
+game
+console-game
+beginner-project
+random
+colorama
